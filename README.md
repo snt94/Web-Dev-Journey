@@ -1,2 +1,2 @@
-# Web-Dev-Journey
-This is the main repo. In this repo will have all of the stuff that I'm trying to learn to proceed in the Web Development Area.
+# Brown Bears Website
+This is my first project ever made. Here I'm trying to learn about HTML.
